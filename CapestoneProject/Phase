@@ -1,1 +1,7 @@
-Capestone
+Capestone Project refrences.
+1)The data in PHASE 1 is collected from below sites.
+https://www.indiacensus.net/index.php ----- the data related to population is collected from indiacensus site
+https://www.findeasy.in/indian-states-by-literacy-rate/-----literarcy rate data is collected from findeasy site
+https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_area ----- area of each state is collected from the wikipedia 
+2)The datasets used in Phase 2 is collected from the Kaggle.com 
+https://www.kaggle.com/datasets/sidd7893/crime-dataset -- crime rate in india
